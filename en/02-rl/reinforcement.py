@@ -3,8 +3,8 @@ import numpy as np
 
 import utils
 
-# OpenAI gym is a library containing a number of environmets for reinforcement learning.
-# It main advantage is that it provides the same interface to all of the environments.
+# OpenAI gym is a library containing a number of environments for reinforcement learning.
+# It's main advantage is that it provides the same interface to all the environments.
 # The implementation of various types of reinforcement learning methods can thus be simple
 # and general.
 
